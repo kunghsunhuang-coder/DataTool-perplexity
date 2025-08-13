@@ -1,0 +1,19 @@
+gradio>=4.17.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib
+scikit-learn>=1.2.0
+openpyxl
+plotly>=5.16.0
+tabulate
+spicy
+seaborn
+statsmodels
+pillow
+xgboost>=2.0.0      # 如要支援XGBoost預測
+lightgbm>=4.0.0     # 如要支援LightGBM
+pyDOE2
+shap
+doepy
+statsmodels
+kaleido
