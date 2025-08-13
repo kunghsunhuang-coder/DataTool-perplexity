@@ -8,6 +8,7 @@ plotly>=5.16.0
 tabulate
 spicy
 seaborn
+scikit-learn
 statsmodels
 pillow
 xgboost>=2.0.0      # 如要支援XGBoost預測
